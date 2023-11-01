@@ -18,6 +18,10 @@ footer {
     margin-top: 0;
     padding: 0;
 }
+footer ~ p {
+    text-emphasis: bold;
+}
+
 h1 {
     font-family:  helvetica;
     margin-top: 5px;
