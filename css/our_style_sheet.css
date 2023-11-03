@@ -33,9 +33,18 @@ nav {
     background: #eeebeb;
     font-weight: bold;
     float: left;
-    height: 420px;
+    height: 600px;
     padding-right: 24px;
     margin-right: 10px;
+}
+.navlinks {
+    display: block;
+    border: 2px solid #a1a1a1;
+    padding: 2px 5px;
+    background: #1e31c2;
+    border-radius: 5px;
+    text-decoration: underline;
+    box-shadow: 5px 5px 5px #888888;
 }
 .floatright {
     float: right;
@@ -43,9 +52,3 @@ nav {
     margin: 10px;
 }
 
-nav {
-    background: #d8d8d8;
-    font-weight: bold;
-    float: left;
-    height: 420px;
-}
