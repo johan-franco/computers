@@ -44,15 +44,13 @@ nav {
 .navlinks {
     display: block;
     border: 2px solid #a1a1a1;
-    padding: 2px 5px;
+    padding: 4px 10px;
     background: #1e31c2;
     border-radius: 5px;
     text-decoration: underline;
     box-shadow: 5px 5px 5px #888888;
 }
-li ~ a {
-    color: white;
-}
+
 .floatright {
     float: right;
     clear: right;
