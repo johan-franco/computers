@@ -23,6 +23,10 @@ h1 {
     font-family:  helvetica;
     margin-top: 5px;
     margin-bottom: 0px;
+    text-shadow: 3px 3px 3px #888888;
+}
+h2 {
+    text-shadow: 3px 3px 3px #888888;
 }
 header {
     border-bottom-style: solid;
