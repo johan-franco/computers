@@ -49,6 +49,7 @@ nav {
     border-radius: 5px;
     text-decoration: underline;
     box-shadow: 5px 5px 5px #888888;
+    color:white;
 }
 .floatright {
     float: right;
