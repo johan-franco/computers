@@ -57,3 +57,8 @@ nav {
     margin: 10px;
 }
 
+#img_scale {
+    -ms-transform: scale(1.5); /* Microsoft Edge */
+    -webkit-transform: scale(1.5); /* Chrome and Safari */
+    transform: scale(1.5);
+}
