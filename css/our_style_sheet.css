@@ -60,6 +60,6 @@ nav {
 #img_scale {
     -ms-transform: scale(1.25); /* Microsoft Edge */
     -webkit-transform: scale(1.25); /* Chrome and Safari */
-    transform: scale(1.25);
-    transform: translate(-50px)
+    transform: scale(1.5);
+    transform: translate(-100px)
 }
