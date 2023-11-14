@@ -63,3 +63,8 @@ nav {
     transform: scale(2);
     transform: translate(-100px)
 }
+
+#title-rotate {
+    -webkit-transform: rotateY(180deg); /* Safari and Chrome */
+    transform: rotateY(180deg);
+}
